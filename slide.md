@@ -220,7 +220,10 @@ class: center, middle
 
 ーーー
 ---
+a
+---
 ーーー
+ a
 *test
 * Thanks a lot
 
