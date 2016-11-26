@@ -221,7 +221,6 @@ class: center, middle
 ーーー
 ---
 a
----
 ーーー
  a
 *test
